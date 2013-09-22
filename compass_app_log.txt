@@ -1,0 +1,94 @@
+2013-09-22 18:04:34 overwrite stylesheets/screen.css 
+2013-09-22 18:04:38 identical stylesheets/screen.css 
+2013-09-22 18:04:41 identical stylesheets/screen.css 
+2013-09-22 18:05:09 identical stylesheets/screen.css 
+2013-09-22 18:05:18 overwrite stylesheets/screen.css 
+2013-09-22 18:05:33 overwrite stylesheets/screen.css 
+2013-09-22 18:05:55 overwrite stylesheets/screen.css 
+2013-09-22 18:06:01 overwrite stylesheets/screen.css 
+2013-09-22 18:07:08 identical stylesheets/screen.css 
+2013-09-22 18:08:31 overwrite stylesheets/screen.css 
+2013-09-22 18:09:01 overwrite stylesheets/screen.css 
+2013-09-22 18:09:05    create stylesheets/globals.css 
+2013-09-22 18:09:23     error sass/globals.scss (Line 6: Undefined variable: "$blue".)
+2013-09-22 18:09:23 overwrite stylesheets/globals.css 
+2013-09-22 18:09:40     error sass/screen.scss (Line 6 of sass/globals.scss: Undefined variable: "$blue".)
+2013-09-22 18:09:40 overwrite stylesheets/screen.css 
+2013-09-22 18:09:49     error sass/screen.scss (Line 7: File to import not found or unreadable: colors.
+Load paths:
+  /Applications/MAMP/htdocs/cc/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.2.1.0/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.4/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-22 18:09:49 overwrite stylesheets/screen.css 
+2013-09-22 18:09:58     error sass/screen.scss (Line 7: File to import not found or unreadable: typography.
+Load paths:
+  /Applications/MAMP/htdocs/cc/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.2.1.0/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.4/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-22 18:09:58 overwrite stylesheets/screen.css 
+2013-09-22 18:10:02     error sass/screen.scss (Line 7: File to import not found or unreadable: typography.
+Load paths:
+  /Applications/MAMP/htdocs/cc/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.2.1.0/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.4/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-22 18:10:02 identical stylesheets/screen.css 
+2013-09-22 18:10:04     error sass/screen.scss (Line 7: File to import not found or unreadable: color.
+Load paths:
+  /Applications/MAMP/htdocs/cc/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.2.1.0/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.4/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-22 18:10:04 overwrite stylesheets/screen.css 
+2013-09-22 18:10:13     error sass/color.scss (Line 6: Undefined variable: "$blue".)
+2013-09-22 18:10:13    create stylesheets/color.css 
+2013-09-22 18:10:13     error sass/screen.scss (Line 6 of sass/color.scss: Undefined variable: "$blue".)
+2013-09-22 18:10:13 overwrite stylesheets/screen.css 
+2013-09-22 18:10:17     error sass/screen.scss (Line 6 of sass/color.scss: Undefined variable: "$blue".)
+2013-09-22 18:10:17 identical stylesheets/screen.css 
+2013-09-22 18:10:18     error sass/typography.scss (Line 6: Undefined variable: "$blue".)
+2013-09-22 18:10:18    create stylesheets/typography.css 
+2013-09-22 18:10:38     error sass/screen.scss (Line 6 of sass/color.scss: Undefined variable: "$blue".)
+2013-09-22 18:10:38 overwrite stylesheets/screen.css 
+2013-09-22 18:10:44 overwrite stylesheets/color.css 
+2013-09-22 18:10:44 overwrite stylesheets/screen.css 
+2013-09-22 18:11:01     error sass/globals.scss (Line 6: Undefined variable: "$blue".)
+2013-09-22 18:11:01 identical stylesheets/globals.css 
+2013-09-22 18:11:01 overwrite stylesheets/screen.css 
+2013-09-22 18:12:10 overwrite stylesheets/screen.css 
+2013-09-22 18:12:23 identical stylesheets/screen.css 
+2013-09-22 18:13:08 overwrite stylesheets/screen.css 

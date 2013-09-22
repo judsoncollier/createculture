@@ -9,5 +9,15 @@
 
   </head>
   <body>
-
-  TEST
+  <header> 
+  	<div class="container">
+  		<div class="row">
+		  	<a href="#"><img src="img/flag.png" class="logo push-left"/></a>
+			<ul class="nav nav-pills push-right">
+			  <li class="active"><a href="#">What we do</a></li>
+			  <li><a href="#">Who we are</a></li>
+			  <li><a href="#">Our Work</a></li>
+			  <li><a href="#">Blog</a></li>
+			</ul>
+		</div>
+	</div>
