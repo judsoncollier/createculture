@@ -67,10 +67,19 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   display: block;
 }
 
+/*used for body copy, etc*/
+/*---------------------------------------
+---- HEADER -----------------------------
+---------------------------------------*/
+/* line 5, ../sass/_globals.scss */
+header {
+  background: #deepgray;
+}
+
 /*---------------------------------------
 ---- FOOTER -----------------------------
 ---------------------------------------*/
-/* line 5, ../sass/_globals.scss */
+/* line 13, ../sass/_globals.scss */
 footer {
   background: #3bbfce;
 }

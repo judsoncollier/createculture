@@ -1,7 +1,10 @@
     <footer>
       <h2>Interested in working with us? Let's chat.</h2>
       <ul id="contact-information">
-        <li></li>
+        <li>
+          <h3>Phone</h3>
+          
+          </li>
       </ul>
     </footer>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
